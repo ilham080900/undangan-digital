@@ -12,7 +12,7 @@ export default function Home() {
             alt="background image"
             fill={true}
           />
-          <Cover />
+            <Cover />
       </div>
     </div>
   );
