@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className='flex flex-col items-center'>
-        <div className="relative w-full h-screen">
+        <div className=" w-full h-screen">
           <Image
             className="bg-cover -z-10 filter: sepia(50%)" 
             src="/images/wedding cover.jpg"
